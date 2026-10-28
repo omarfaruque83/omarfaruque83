@@ -122,7 +122,7 @@ I am always open to exploring high-impact global opportunities, consulting contr
 * 📍 **Location:** Dhaka-1000, Bangladesh[cite: 1]
 * 🔗 **LinkedIn:** [Add your LinkedIn profile link here]
 * 🐙 **GitHub:** [https://github.com/omarfaruque83]
-
+- 📘 **Portfolio / Project Photos (Facebook):** [Land & Liners](https://www.facebook.com/share/1FKjWhJcZs/)
 ---
 
 ---
