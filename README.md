@@ -3,7 +3,9 @@
 ---
 
 ## 🚀 Professional Summary
-
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=omarfaruque83&color=blue&style=flat-square" alt="Profile Visitor Count" />
+</p>
 Driven, adaptable, and results-oriented **Managing Director** and multi-disciplinary leader with a robust track record spanning over a decade in project management, architectural design, structural interior solutions, land consultancy, and digital marketing. Known for a disciplined work ethic, hands-on operational leadership, and a steadfast commitment to delivering excellence on time and beyond expectations. Adept at navigating complex project lifecycles—from initial land assessment and conceptual design to construction execution and multi-channel digital brand growth. Bridging traditional leadership excellence with modern strategic solutions to deliver unmatched value to international clients and stakeholders.
 
 ---
@@ -42,7 +44,9 @@ Driven, adaptable, and results-oriented **Managing Director** and multi-discipli
 
 ### 💻 Tools & Professional Skills
 
-* **Software:** Microsoft Office Suite (Word, Excel, PowerPoint), CAD/Design tools, Digital Marketing Suites
+* **Software:** Microsoft Office Suite (Word, Excel, PowerPoint), CAD/Design tools, Digital Marketing Suites![AutoCAD](https://img.shields.io/badge/AutoCAD-007ACC?style=for-the-badge&logo=autocad&logoColor=white)
+![MS Office](https://img.shields.io/badge/MS_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+![Digital Marketing](https://img.shields.io/badge/Digital_Marketing-FF6F61?style=for-the-badge&logo=google-ads&logoColor=white)
 * **Soft Skills:** Advanced Problem-Solving, Strategic Negotiation, High-stakes Decision Making, Bilingual Communication
 
 ---
@@ -104,7 +108,11 @@ Driven, adaptable, and results-oriented **Managing Director** and multi-discipli
 * **Hindi:** Conversational[cite: 1]
 
 ---
-
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=omarfaruque83&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarfaruque83&layout=compact&theme=radical&hide_border=true" width="48%" />
+</p>
 ## 📬 Let's Connect & Collaborate
 
 I am always open to exploring high-impact global opportunities, consulting contracts, and strategic partnerships in architecture, land development, project management, and digital strategy.
@@ -113,7 +121,7 @@ I am always open to exploring high-impact global opportunities, consulting contr
 * 📱 **Phone / WhatsApp:** [+880 1990-627955](https://www.google.com/search?q=tel:%2B8801990627955)[cite: 1]
 * 📍 **Location:** Dhaka-1000, Bangladesh[cite: 1]
 * 🔗 **LinkedIn:** [Add your LinkedIn profile link here]
-* 🐙 **GitHub:** [Add your GitHub profile link here]
+* 🐙 **GitHub:** [https://github.com/omarfaruque83]
 
 ---
 
